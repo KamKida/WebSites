@@ -1,2 +1,3 @@
-# WebSites
-In this repository I will show my code I writed when creating websites as a exercise.
+Pl: Strony internetowe napisane podczas nauki: 'HTML' i 'CSS'. 
+
+Eng: Websites I wrote while learning: 'HTML' and 'CSS'.
